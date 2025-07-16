@@ -1,2 +1,5 @@
 ﻿  source.c
-  program.vcxproj -> C:\Users\Administrator\Desktop\program\x64\Debug\program.exe
+C:\Users\Administrator\Desktop\gameclass\program\program\source.c(9,9): warning C4068: 알 수 없는 pragma 'endragion'
+C:\Users\Administrator\Desktop\gameclass\program\program\source.c(17,9): warning C4068: 알 수 없는 pragma 'endragion'
+C:\Users\Administrator\Desktop\gameclass\program\program\source.c(72,9): warning C4068: 알 수 없는 pragma 'endragion'
+  program.vcxproj -> C:\Users\Administrator\Desktop\gameclass\program\x64\Debug\program.exe
