@@ -1,75 +1,107 @@
-#include<stdio.h>
+# include<stdio.h>
 
-// main() : 프로그램의 진입점을 역할을 하는 함수입니다
 void main()
 {
-#pragma region 변수
-// 데이터를 저장할 수 있는 메모리 공간을 생성하는 것입니다
-
-#pragma endragion
-
-#pragma region 자료형 
-
-	// 데이터를 저장하기 위해 데이터의 형태를 정해주는 것입니다
+#pragma region 산술 연산자(숙제)
+	// 1. 변수 = 변수 + 변수
+	 
+	// 2. 변수 = 변수 - 리터럴 변수
+	 
+	// 3. 변수 = 변수 * 심블럭 상수
+	 
+	// 4. 변수 = 리터럴 상수 / 리터럴 상수
 	
-	// 자료형은 각각의 자료형마다 크기가 정해져 있으며, 자료형의 크기는 바이트 단위로 이루어져있고
-	// 자료형에 따라 저장할 수 있는 값의 종류와 범위가 결정됩니다
-#pragma endragion
-
-#pragma region 서식 지정자
-	// 변수의 값이 추력하기 위한 자료형의 정보를 명시적으로 지정해주는 것입니다
+	// 5. 변수 = 심볼릭 상수 % 리터럴 상수
 	
-	//서식 지정자의 경우 하나의 표준 출력 함수에 여러 개의 서식을 넣을 수 있으며,
-	//서식 지정자의 순서는 왼쪽에서 시작합니다
-
-	//서식 지정자는 각각의 서식에 따라 원하는 데이터를 출력할 수 있으며, 서식과 변수의
-	//형태가 일치하지 않으면 원하는 값이 출력되지 않습니다
-
-	//char alphabet = 'A';
-
-	//int integer = 100;
-
-	//float declimal = 36.5;
-
-	//printf("alphabet : %c\n", alphabet);
-
-	//printf("integer : %i\n", integer);
-
-	//printf("declimal : %f\n", declimal);
 #pragma endregion
 
-#pragma region 변수의 이동 규칙
 
 
-    // 1. 변수의 이름은 대소문자를 구분합니다.
-	// ex) int health = 100;
-	// ex) int HEALTH = 20;
+#pragma region 비트
+	// 데이터를 나타내는 최소의 단위이며, 0또는 1의 조합으로
+	// 논리 계산을 수행하는 단계입니다
 
-	// 2. 변수의 이름으로 예약어를 사용할 수 없습니다
-	// ex) int int;
+#pragma region (10)진수를 (2)진수로 변환하는 과정
+	// 10진수를 1이 될때까지 계속 2로 나누어 준 다음
+	// 나눈 위치의 나머지 값을 아래에서 위로 순서대로 정령합니다.
+	// ex)23    을 2진수로 바꾸면 10111(2)
+	//    11 1
+	//	  5  1
+	//	  2  1
+	//	  1  0
 
-	// 3.변수의 이름에는 공백이 포함될 수 없습니다
-	//ex) float time Delay
-
-	// 4. 변수의 이름으로 특수 문자는 "_", "$"만 사용할 수 있습니다
-
-	// ex) int under_score;
-	// ex) int currentRoom$;
-
-	// 5. 변수의 이름은 숫자로 시작할 수 없습니다
-	// ex) int 5error;
-	// ex) int error2025;
 
 #pragma endregion
 
-	int experience = 100;
+#pragma region (2)진수를 (10)진수로 변환하는 과정
+	//1 byte에 2진수로 저장된 값을 2의 제곱으로 나타냅니다.
 
-	experience = 200;
+	// 각각의 비트에 1이 있다면 1과 2의 제곱의 위치를 계산한
+	// 다음 각각의 비트를 모두 더하며 10진수로 나타냅니다.
+#pragma endregion
 
-	printf("experience : %d\n", experience);
 
-	//변수는 프로그램이 실행되는 동안 값을 바꿀수 없으며, 원래 지정되어 있는 값은 새로 지정되는 값에 의해 지워집니다
-#pragma endragion
+#pragma region 비트연산자
+	// 비트단위로 논리연산을 수행하기 위해 사용하는 연산자입니다
 
+#pragma region AND연산자
+	// 두개의 피연산자가 모두 1이면 1을 반환하는 연산자입니다
+	// 기호 : &
+
+	//int su1 = 10; // 0000 1010
+	//int su2 = 6;  // 0000 0110
+	//			  // ---------
+	//              // 0000 0010
+
+	//printf("su1 & su2 = %d\n", su1 & su2);
+
+#pragma endregion
+
+#pragma region OR 연산자
+	// 두 개의 피연산자 중에 하나라도 1이 있다ㅣ면 1을 반환하는 연산자입니다
+	// 기호 : |
+
+	//int num1 = 8;  // 0000 1000
+	//int num2 = 12; // 0000 1100
+	//               // ---------
+	//               // 0000 1100 => 12
+	//printf("num1 | num2 = %d\n", num1 | num2);
+
+#pragma endregion
+
+#pragma region XOR 연산자
+	// 두 개의 피연산자가 서로 같으면 0을 반환하고 
+	// 서로 다르면 1을 반환하는 연산자입니다.
+	// 기호 : ^
+
+	//int a1 = 6;  // 0000 0110
+	//int a2 = 15; // 0000 1111
+	//			 // ---------
+	//			 // 0000 1001
+
+	//printf("a1 ^ a2 = %d\n", a1 ^ a2);
+
+#pragma endregion
+
+#pragma region NOT 연산자
+	// 하나의 비트를 반전시키는 연산자입니다.
+	// 기호 : ~
+
+	//int z1 = 13; // 0000 1101
+	//             // ---------
+	//             // 1111 0010 => -14
+	//printf("~z1 = %d", ~z1);
+
+	//첫 번째 비트는 부호를 나타내며, 첫 번째 비트에 1이 있다면 값은 음수입니다.
+
+#pragma endregion
+
+	
+
+#pragma endregion
+
+
+
+#pragma endregion
 
 }
