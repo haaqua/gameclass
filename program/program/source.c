@@ -2,16 +2,28 @@
 
 void main()
 {
-#pragma region 산술 연산자(숙제)
+#pragma region 산술 연산자
 	// 1. 변수 = 변수 + 변수
+	int su1 = 5;
+	int su2 = 9;
+	printf("변수 + 변수 = %d\n", su1 + su2);
 	 
-	// 2. 변수 = 변수 - 리터럴 변수
+	// 2. 변수 = 변수 - 리터럴 상수
+	int num1 = 8;
+	printf("변수 - 리터럴 상수 = %d\n", num1 - 5);
 	 
 	// 3. 변수 = 변수 * 심블럭 상수
+	int var1 = 9;
+	const int sim1 = 5;
+	printf("변수 * 심블럭 상수 = %d\n", var1 * sim1);
 	 
 	// 4. 변수 = 리터럴 상수 / 리터럴 상수
+	int var2 = 10 / 2;
+	printf("리터럴 상수 / 리터럴 상수 = %d\n", var2);
 	
 	// 5. 변수 = 심볼릭 상수 % 리터럴 상수
+	const int sim2 = 20;
+	printf("심볼릭 상수 % 리터럴 상수 = %d\n", sim2 % 4);
 	
 #pragma endregion
 
