@@ -15,6 +15,8 @@ void main()
 	//printf("storage = %d\n", storage);
 #pragma endregion
 
+//pull rechest
+
 #pragma region 언더플로우
 	// 특정한 자료형이 표현할 수 있는 최솟값의 범위를 넘어서 연산을 수행하는 과정입니다
 
