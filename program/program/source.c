@@ -90,7 +90,14 @@ void main()
 #pragma region 중첩 반복문
 	// 반복문 안에 새로운 반복문이 들어 있는 형태의 반복문입니다
 
-	for(int i = 0; i < 3;
+	for (int i = 0; i < 3; i++) 
+	{
+		printf("out...\n");
+		for (int j = 1; j < 3; j++) 
+		{
+			printf("in...\n");
+		}
+	}
 
 #pragma endregion
 
