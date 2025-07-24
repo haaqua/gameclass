@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C93FDF16-3BDB-4E08-BF44-C90F7BF60DEC}|program\\program.vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E93E14B1-25ED-4928-BC80-F9FB4E8F21D1}|Class 7th (type conversation)\\Class 7th (type conversation).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 7th (type conversation)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E93E14B1-25ED-4928-BC80-F9FB4E8F21D1}|Class 7th (type conversation)\\Class 7th (type conversation).vcxproj|solutionrelative:Class 7th (type conversation)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93FDF16-3BDB-4E08-BF44-C90F7BF60DEC}|program\\program.vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C93FDF16-3BDB-4E08-BF44-C90F7BF60DEC}|program\\program.vcxproj|solutionrelative:program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D05AFEFC-CEB6-4CD8-B75A-CD822104853C}|Class 5th (conditional statement)\\Class 5th (conditional statement).vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class 5th (conditional statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{803545A1-5BD4-4654-89E8-80C17225DDB2}|Class 6th (interaction statement)\\Class 6th (interaction statement).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 6th (interaction statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{803545A1-5BD4-4654-89E8-80C17225DDB2}|Class 6th (interaction statement)\\Class 6th (interaction statement).vcxproj|solutionrelative:Class 6th (interaction statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05AFEFC-CEB6-4CD8-B75A-CD822104853C}|Class 5th (conditional statement)\\Class 5th (conditional statement).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 5th (conditional statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D05AFEFC-CEB6-4CD8-B75A-CD822104853C}|Class 5th (conditional statement)\\Class 5th (conditional statement).vcxproj|solutionrelative:Class 5th (conditional statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{067BA33C-E80A-4482-BD1F-4061BD9DB539}|class3th (beet)\\class3th (beet).vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\class3th (beet)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{067BA33C-E80A-4482-BD1F-4061BD9DB539}|class3th (beet)\\class3th (beet).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\class3th (beet)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{067BA33C-E80A-4482-BD1F-4061BD9DB539}|class3th (beet)\\class3th (beet).vcxproj|solutionrelative:class3th (beet)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE795231-5A3C-4F5A-A361-C458AA2A3BBA}|Class 4th (overflow and underflow)\\Class 4th (overflow and underflow).vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class 4th (overflow and underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AE795231-5A3C-4F5A-A361-C458AA2A3BBA}|Class 4th (overflow and underflow)\\Class 4th (overflow and underflow).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 4th (overflow and underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE795231-5A3C-4F5A-A361-C458AA2A3BBA}|Class 4th (overflow and underflow)\\Class 4th (overflow and underflow).vcxproj|solutionrelative:Class 4th (overflow and underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9A0934F-8DC0-4758-A8C1-3D26E8DA0A00}|class2th (compile)\\class2th (compile).vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\class2th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F9A0934F-8DC0-4758-A8C1-3D26E8DA0A00}|class2th (compile)\\class2th (compile).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\class2th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F9A0934F-8DC0-4758-A8C1-3D26E8DA0A00}|class2th (compile)\\class2th (compile).vcxproj|solutionrelative:class2th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525E68BC-159F-4006-8C81-FA97DF639C10}|Class1th (Compile)\\Class1th (Compile).vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class1th (Compile)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{525E68BC-159F-4006-8C81-FA97DF639C10}|Class1th (Compile)\\Class1th (Compile).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class1th (Compile)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{525E68BC-159F-4006-8C81-FA97DF639C10}|Class1th (Compile)\\Class1th (Compile).vcxproj|solutionrelative:Class1th (Compile)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -34,15 +42,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class 5th (conditional statement)\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 7th (type conversation)\\source.c",
+              "RelativeDocumentMoniker": "Class 7th (type conversation)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 7th (type conversation)\\source.c",
+              "RelativeToolTip": "Class 7th (type conversation)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-24T10:38:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 6th (interaction statement)\\source.c",
+              "RelativeDocumentMoniker": "Class 6th (interaction statement)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 6th (interaction statement)\\source.c",
+              "RelativeToolTip": "Class 6th (interaction statement)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-24T09:08:20.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 5th (conditional statement)\\source.c",
               "RelativeDocumentMoniker": "Class 5th (conditional statement)\\source.c",
-              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class 5th (conditional statement)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 5th (conditional statement)\\source.c",
               "RelativeToolTip": "Class 5th (conditional statement)\\source.c",
               "ViewState": "AgIAAIEAAAAAAAAAAADwv60AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -50,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class 4th (overflow and underflow)\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 4th (overflow and underflow)\\source.c",
               "RelativeDocumentMoniker": "Class 4th (overflow and underflow)\\source.c",
-              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class 4th (overflow and underflow)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 4th (overflow and underflow)\\source.c",
               "RelativeToolTip": "Class 4th (overflow and underflow)\\source.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -62,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\class3th (beet)\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\class3th (beet)\\source.c",
               "RelativeDocumentMoniker": "class3th (beet)\\source.c",
-              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\class3th (beet)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\class3th (beet)\\source.c",
               "RelativeToolTip": "class3th (beet)\\source.c",
               "ViewState": "AgIAAFEAAAAAAAAAAAAIwJ4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -74,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\class2th (compile)\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\class2th (compile)\\source.c",
               "RelativeDocumentMoniker": "class2th (compile)\\source.c",
-              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\class2th (compile)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\class2th (compile)\\source.c",
               "RelativeToolTip": "class2th (compile)\\source.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAjwFQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -86,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class1th (Compile)\\Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class1th (Compile)\\Source.c",
               "RelativeDocumentMoniker": "Class1th (Compile)\\Source.c",
-              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\Class1th (Compile)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class1th (Compile)\\Source.c",
               "RelativeToolTip": "Class1th (Compile)\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -98,13 +132,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\program\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\program\\source.c",
               "RelativeDocumentMoniker": "program\\source.c",
-              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\gameclass\\program\\program\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\program\\source.c",
               "RelativeToolTip": "program\\source.c",
-              "ViewState": "AgIAAFMAAAAAAAAAAADgv18AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-15T10:25:19.253Z",
               "EditorCaption": ""
