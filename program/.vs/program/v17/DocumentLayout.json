@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E93E14B1-25ED-4928-BC80-F9FB4E8F21D1}|Class 7th (type conversation)\\Class 7th (type conversation).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 7th (type conversation)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E93E14B1-25ED-4928-BC80-F9FB4E8F21D1}|Class 7th (type conversation)\\Class 7th (type conversation).vcxproj|solutionrelative:Class 7th (type conversation)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C93FDF16-3BDB-4E08-BF44-C90F7BF60DEC}|program\\program.vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C93FDF16-3BDB-4E08-BF44-C90F7BF60DEC}|program\\program.vcxproj|solutionrelative:program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93E14B1-25ED-4928-BC80-F9FB4E8F21D1}|Class 7th (type conversation)\\Class 7th (type conversation).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 7th (type conversation)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E93E14B1-25ED-4928-BC80-F9FB4E8F21D1}|Class 7th (type conversation)\\Class 7th (type conversation).vcxproj|solutionrelative:Class 7th (type conversation)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{803545A1-5BD4-4654-89E8-80C17225DDB2}|Class 6th (interaction statement)\\Class 6th (interaction statement).vcxproj|C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 6th (interaction statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 7th (type conversation)\\source.c",
               "RelativeDocumentMoniker": "Class 7th (type conversation)\\source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Class 7th (type conversation)\\source.c",
               "RelativeToolTip": "Class 7th (type conversation)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-24T10:38:57.435Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Class 6th (interaction statement)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-24T09:08:20.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T09:08:20.332Z"
             },
             {
               "$type": "Document",
@@ -132,13 +131,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\program\\source.c",
               "RelativeDocumentMoniker": "program\\source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\program\\source.c",
               "RelativeToolTip": "program\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwE0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-15T10:25:19.253Z",
               "EditorCaption": ""
