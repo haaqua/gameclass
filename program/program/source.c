@@ -35,50 +35,105 @@ void main()
 #pragma region 포인터
 	// 메모리의 주소 값을 저장할 수 있는 변수입니다
 
-	int storage = 10;
-	
-	int variable = 20;
-	
-	int * pointer=&storage;
+	//int storage = 10;
+	//
+	//int variable = 20;
+	//
+	//int * pointer=&storage;
 
 	// 포인터가 가리키는 메모리 공간의 자료형은 알 수 없음으로,
 	// 포인터가 가리키는 메모리의 자료형을 선언해주어야 합니다
 
-	printf("storage 변수의 주소 : %p\n", &storage);
-	printf("pointer 값 : %p\n", pointer);
-	printf("pointer 변수의 주소 : %p\n\n", &pointer);
+	//printf("storage 변수의 주소 : %p\n", &storage);
+	//printf("pointer 값 : %p\n", pointer);
+	//printf("pointer 변수의 주소 : %p\n\n", &pointer);
 
-	*pointer = 99;
-	printf("storage 변수의 값 : %d\n", storage);
-	printf("pointer 변수가 가리키는 값 : %d\n\n", *pointer);
+	//*pointer = 99;
+	//printf("storage 변수의 값 : %d\n", storage);
+	//printf("pointer 변수가 가리키는 값 : %d\n\n", *pointer);
 
-	
-	pointer = &variable;
-	printf("variable 변수의 주소 : %p\n", &variable);
-	printf("pointer 값 : %p\n", pointer);
-	printf("pointer 변수의 주소 : %p\n\n", &pointer);
+	//
+	//pointer = &variable;
+	//printf("variable 변수의 주소 : %p\n", &variable);
+	//printf("pointer 값 : %p\n", pointer);
+	//printf("pointer 변수의 주소 : %p\n\n", &pointer);
 
-	*pointer = 100;
-	printf("variable 변수의 값 : %d\n", variable);
-	printf("pointer 변수가 가리키는 값 : %d\n", *pointer);
+	//*pointer = 100;
+	//printf("variable 변수의 값 : %d\n", variable);
+	//printf("pointer 변수가 가리키는 값 : %d\n", *pointer);
 
 	// 포인터 변수도 자신의 메모리 공간을 가지고 있으며,
 	// 포인터 변수에 변수의 주소를 저장하게 되면 
 	// 해당 변수의 시작 주소를 가리키게 됩니다
 
-	printf("int 자료형의 크기 : %u\n", sizeof(int));
-	printf("pointer 변수의 크기 : %u\n", sizeof(pointer));
+	//printf("int 자료형의 크기 : %u\n", sizeof(int));
+	//printf("pointer 변수의 크기 : %u\n", sizeof(pointer));
 
 	// 포인터 변수의 크기는 중앙 처리 장치가 한번에 처리할 수 있는 크기로 정해지며, 
 	// 한 번에 처리할 수 있는 크기는 운영체제에 따라 크기가 결정됩니다
 
 #pragma endregion
+#pragma region 범용 포인터
+	// 자료형이 정해지지 않은 상태로 모든 자료형을 저장할 수 있는 포인터입니다
 
-#pragma region 복합대입연산자 (숙제)
-	// 복합대입연산자에 대한것 찾고 간단한 계산기 만들기
+	//char rank = 'A';
+	//int count = 10;
+	//float angle = 3.14f;
+
+	//void * reference = NULL;
+
+	//reference = &rank;
+	//// 범용 포인터는 메모리 주소에 접근해서 값을 변경할 수 없습니다
+
+	//*(char *)reference = 'B';
+
+	//printf("rank 변수의 값 : %c\n", rank);
+	//printf("reference 변수의 값 : %p\n\n", reference);
+
+	//reference = &count;
+
+	//*(int*)reference = 50;
+	//printf("count 변수의 값 : %d\n", count);
+	//printf("reference의 값 : %d\n\n", reference);
+
+	//reference = &angle;
+
+	//*(float*)reference = 45.5f;
+	//printf("angle 변수의 값 : %f\n", angle);
+	//printf("reference의 값 : %f\n\n", reference);
+	//
+	//// 범용 포인터로 변수의 메모리에 접근하려면 
+	//// 범용 포인터가 가리키는 변수의 자료형으로 형 변환해주어야 합니다
 #pragma endregion
 
+#pragma region 상수 지시 포인터
+// 포인터가 가리키는 주소에 지정되어 있는 값을 
+// 변경할 수 없도록 지정되어 있는 포인터입니다
+
+
+//int room1 = 10;
+//const int * const_pointer = &room1;
+//const_pointer = 99;
+//
+//printf("room1의 값 : %d\n", &room1);
+//printf("const_printer의 값 : %d\n\n", &const_pointer);
+//
+//int room2 = 20;
+//const_pointer = &room2;
+//printf("room2의 값 : %d\n", &room2);
+//printf("const_pointer의 값 : %d\n\n", &const_pointer);
+
+#pragma endregion
+
+#pragma region 포인터 함수
+// 포인터 변수가 가리키고 있는 주소 값을
+// 변경할 수 없는 포인터 입니다
+
+int* const al = NULL;
+int a1 = 99;
+int a2 = 2;
 
 
 
+#pragma endregion
 }
