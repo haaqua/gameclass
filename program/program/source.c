@@ -65,21 +65,33 @@ void main()
 #pragma endregion
 #pragma region (2)차원 배열
 	// 배열의 요소로 또 다른 배열을 가지는 배열입니다
-
-	int array2D[3][3] = 
+	int array2D[3][3] = {
+		{0,0,0},
+		{0,0,0},
+		{0,0,0}
+	};
+	int n = 1;
+	for (int i = 0; i < 3; i++)
 	{
-		for (int i = 1;i < 4;i++) {
-			for (int j = 1;j < 4;j++) {
-				array2D[i][j] = j;
-				printf("array2D[%d][%d] = %d\n", i, j, array2D[i][j]);
-			}
+		for (int j = 0; j < 3; j++) 
+		{
+			array2D[i][j] = n;
+			n += 1;
 		}
 	}
-
+	printf("array2D : \n");
+	
+	for (int i = 0; i < 3; i++)
+	{
+		for (int j = 0; j < 3; j++)
+		{
+			printf("%d", array2D[i][j]);
+		}
+		printf("\n");
+	}
 
 	//2차원 배열은 행과 열로 구분되며, 
 	// 앞의 있는 배열은 행을 의미하고 뒤에 있는 배열이 열을 의미합니다
 #pragma endregion
-
 
 }
