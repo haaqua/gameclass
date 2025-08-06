@@ -1,41 +1,61 @@
 ﻿#include<stdio.h>
-#include<stdlib.h>
+#include<math.h>
 
+struct status
+{
+	const char* name;
+	int health;
+	int defence;
+	int level;
+	double exp;
+	int str;
+	int dex;
+	int wis;
+	int cha;
+};
+
+struct coor
+{
+	double x;
+	double y;
+};
 
 int main() 
 {
-#pragma region 동적 할당
-	// 프로그램이 실행하는 중에 필요한 만큼 메모리를 할당하는 작업입니다
+#pragma region 구조체
+	// 여러 개의 변수를 하나의 집합으로 구조화한 다음 
+	// 하나의 객체를 생성하는 것입니다
 
-	//int* pointer = malloc(4);
+	// 구조체의 각 멤버는 구조체 선언에서 나타나는 순서대로 초기화합니다
+	// 이 순서는 초기화 목록의 값들이 왼쪽에서부터 오른쪽으로 대응됩니다
 
-	//*pointer = 10;
+	//struct status data;
+	//data.name = "기사";
+	//data.health = 10;
+	//data.defence = 10;
+	//data.level = 1;
+	//data.exp = 0;
+	//data.str = 10;
+	//data.dex = 4;
+	//data.wis = 4;
+	//data.cha = 5;
+	//printf("이름 : %s\nhp : %d df : %d\nlevel : %d\nexp : %d\nstr : %d\ndex : %d\nwis : %d\ncha : %d\n", data.name, data.health, data.defence, data.level, data.exp, data.str, data.dex, data.wis, data.cha);
 
-//	printf("pointer가 가리키는 값 : %d\n", *pointer);
-
-	// 동적 할당은 실행 시간에 가변적으로 메모리의 크기를 변경할 수 있으며, 
-	// 동적으로 메모리의 크기를 할당할 때 바이트 단위로 지정합니다
-
-//	free(pointer);
-	// 동적으로 할당한 메모리는 힙 영역에 보관되어 있으므로, 
-	// 사용이 끝나면 직접 해제해주어야 합니다
+	// 구조체를 선언하기 전에 구조체는 메모리공간이 생성되지 않으므로, 
+	// 구조체 내부에 있는 데이터를 초기화할 수 없습니다
 
 #pragma endregion
 
-#pragma region 과제
-	// int를 저장할 수 있는 3개짜리 배열을 만들기
-	int* pointer = malloc(3);
-	// 만든 배열에 10, 20, 30 집어넣기
-	pointer[0] = 10;
-	pointer[1] = 20;
-	pointer[2] = 30;
-	for (int i = 0; i < 3; i++) 
-	{
-		printf("pointer[%d]의 값 : %d\n", i, pointer[i]);
-	}
-	// 한번씩 출력하고 메모리 해제하기
-	free(pointer);
+#pragma region 두 점 사이의 거리
+	struct coor data;
+
+	data.x = (1, 5);
+	data.y = (1, 7);
+	sqrt(data.x[0] - data.y[0]);
+	sqrt(data.x[1] - data.y[1]);
+
 #pragma endregion
+
 
 
 	return 0;
