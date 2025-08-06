@@ -16,8 +16,9 @@ struct status
 
 struct coor
 {
-	double x;
-	double y;
+	double x[1];
+	double y[1];
+	double distance;
 };
 
 int main() 
@@ -49,10 +50,14 @@ int main()
 #pragma region 두 점 사이의 거리
 	struct coor data;
 
-	data.x = (1, 5);
-	data.y = (1, 7);
-	sqrt(data.x[0] - data.y[0]);
-	sqrt(data.x[1] - data.y[1]);
+	data.x[0] = 1;
+	data.x[1] = 5;
+	data.y[0] = 1;
+	data.y[1] = 7;
+	data.distance = sqrt((data.x[0] - data.x[1]) * (data.x[0] - data.x[1]) + (data.y[0] - data.y[1]) * (data.y[0] - data.y[1]));
+	printf("두 점 사이의 거리 : %lf\n", data.distance);
+	
+
 
 #pragma endregion
 
