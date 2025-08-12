@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\bin\Debug\net8.0\Pacman.exe
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\bin\Debug\net8.0\Pacman.deps.json
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\bin\Debug\net8.0\Pacman.runtimeconfig.json
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\bin\Debug\net8.0\Pacman.dll
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\bin\Debug\net8.0\Pacman.pdb
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.sourcelink.json
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.dll
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\refint\Pacman.dll
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.pdb
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\Pacman.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\gameclass\program\Pacman\Pacman\obj\Debug\net8.0\ref\Pacman.dll

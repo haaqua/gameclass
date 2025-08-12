@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Pacman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB044111-1546-4B4A-9298-ADD574E4037F}|Pacman\\Pacman.csproj|c:\\users\\administrator\\desktop\\gameclass\\program\\pacman\\pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB044111-1546-4B4A-9298-ADD574E4037F}|Pacman\\Pacman.csproj|solutionrelative:pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Pacman\\Pacman\\Program.cs",
+              "RelativeDocumentMoniker": "Pacman\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\gameclass\\program\\Pacman\\Pacman\\Program.cs*",
+              "RelativeToolTip": "Pacman\\Program.cs*",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAiwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:48:17.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
